@@ -1,4 +1,4 @@
-#  Travel Bucket List Agent — TSU
+#  Travel Bucket List Agent 
 
 A conversational travel planner built with LangGraph, LangChain, and OpenAI GPT-4o-mini.
 
